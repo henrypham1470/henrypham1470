@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henry Pham</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrypham1470&label=Profile%20views&color=0e75b6&style=flat" alt="henrypham1470" /> </p>
 
-- 🔭 I’m currently working on **a few projects in my DSC680**
+- 🔭 I’m currently working on [a few projects in my DSC680](https://github.com/henrypham1470/DSC680)
 
 - 💬 Ask me about **MSBI**
 
@@ -20,5 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henrypham1470&show_icons=true&locale=en" alt="henrypham1470" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henrypham1470&" alt="henrypham1470" /></p>
+
 
 
